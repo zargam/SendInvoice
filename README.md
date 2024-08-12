@@ -1,6 +1,6 @@
 # Create_InvoiceAttachement
 
-With the help of this model, you can send the invoice as an attachment to the customer any number of times
+With the help of this module, you can send the invoice as an attachment to the customer any number of times
 
 ### Type 1: Zip file
 
